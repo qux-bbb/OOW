@@ -7,10 +7,9 @@ Open WebUI官网: https://openwebui.com/
 
 
 ## 下载
-方式1: release  
-&&&&&&&  
+文件 4.96 GB，Release限制 2 GB，只能放网盘了。  
 
-方式2: 夸克网盘  
+夸克网盘  
 链接: https://pan.quark.cn/s/c9aaf0ad7854  
 提取码: TB6E  
 
