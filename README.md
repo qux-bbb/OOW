@@ -33,6 +33,18 @@ https://ollama.com/library
 访问 http://127.0.0.1:8080, 点击左上角的"Arena Model"，搜索 qwen2.5:7b, 拉取模型使用即可  
 
 
+## 升级
+### Ollama
+删除或重命名 ollama-windows-amd64 文件夹  
+https://github.com/ollama/ollama/releases 下载最新的ollama-windows-amd64.zip解压即可
+
+### Open WebUI
+到python.exe所在文件夹，执行命令：  
+```r
+.\python.exe -m pip install --upgrade open-webui
+```
+
+
 ## 配置过程
 仅供了解配置过程，不需要自己操作。
 
