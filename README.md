@@ -7,14 +7,32 @@ Open WebUI官网: https://openwebui.com/
 
 
 ## 下载
-文件 4.96 GB，Release限制 2 GB，只能放网盘了。  
+Release限制 2 GB，压缩包比较大，只能放网盘了。  
+下载后可自行校验压缩包哈希值。  
 
-夸克网盘  
-链接: https://pan.quark.cn/s/c9aaf0ad7854  
-提取码: TB6E  
+### OOW_20241219.7z
+```r
+Ollama v0.5.4
+Open WebUI v0.4.8
+内置模型:
+  llama3.2:3b
+  qwen2.5:3b
+链接: https://pan.quark.cn/s/ef24475cac55
+提取码: xr8K
+大小: 4.98 GB
+sha256: 7f6bc3dfd297a44db3c21b93f576fa0293e4c239157533720c98d02c893d1c9d
+```
 
-下载后自行校验压缩包的sha256: 7d527edd7e3feecd9acf99a5155fb86509d61895a841e4dfbaafc00c1434efbd  
-
+### OOW_20241110.7z
+```r
+内置模型:
+  llama3.2:3b
+  qwen2.5:3b
+链接: https://pan.quark.cn/s/c9aaf0ad7854
+提取码: TB6E
+大小: 4.96 GB
+sha256: 7d527edd7e3feecd9acf99a5155fb86509d61895a841e4dfbaafc00c1434efbd
+```
 
 ## 使用
 解压后执行 start.bat  
