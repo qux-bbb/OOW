@@ -1,5 +1,10 @@
 # OOW
 
+本项目不再更新，可使用Ollama + Cherry Studio  
+Ollama官网: https://ollama.com/  
+Cherry Studio官网: https://cherry-ai.com/  
+
+---
 Ollama + Open WebUI, 配置成便携版的，解压即可使用。  
 
 Ollama官网: https://ollama.com/  
